@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\trainer\\AndroidStudioProjects\\movies-mvvm-retrofit-rxJava-pagination\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-as\\values-as.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\trainer\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-navigation-ui-1.0.0-rc01.aar\\483a3d7668f2ff800f6247e16219b185\\res\\values-as\\values-as.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,160",
+                        "endColumns": "104,116",
+                        "endOffsets": "155,272"
+                    }
+                }
+            ]
+        }
+    ]
+}
